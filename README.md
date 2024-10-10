@@ -30,7 +30,7 @@ Some items can be one of two different Tiers if the setting is Dubious and if so
 
 Otherwise just push the price and it will be placed in the middle list which stores the names for unknown items in tier categories.
 
-The back arrow can be pressed if you've made a mistake or for whatever other reason you wan't to undo. This places the item name back in the available list.
+The back arrow can be pressed if you've made a mistake or for whatever other reason you want to undo. This places the item name back in the available list.
 
 The lightbulb lets you choose an effect from a list of available effects and thus marking it as identified.
 
