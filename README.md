@@ -1,4 +1,4 @@
-# NethackPriceIdentification
+# NetHack Price Identification
 A python made graphical interface for price identifying items in NetHack
 
 ## Intro
