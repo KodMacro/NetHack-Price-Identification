@@ -10,6 +10,8 @@ This is something I might do in the future, I'm not certain. There are a few cha
 ## Running the program
 The program uses math, shelve, os and appJar modules at this time, and the current version of python I use myself is 3.12.6.
 
+I use linux and have not tested it on windows.
+
 If these requirements are met, it should start up with a simple "python identify.py" right now.
 First it takes some time to generate the different price dictionaries.
 
