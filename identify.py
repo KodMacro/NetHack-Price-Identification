@@ -1,6 +1,7 @@
 #Version 0.2
 #TODO: Show only valid effects when identifying. (Maybe)
-#TODO: Change Healing potion price when NetHack 3.7 is released
+#TODO: Change Healing potion price when NetHack 3.7 is released.
+#TODO: Store charisma value when saving.
 
 from appJar import gui
 
